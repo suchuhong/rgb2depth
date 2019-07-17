@@ -261,3 +261,5 @@ __pycache__/
 *.pyc
 /rgb2depth/depth
 /rgb2depth/depthToBgra
+/rgb2depth/depth2bgra
+/rgb2depth/bgr
